@@ -13,8 +13,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../TopologicalSorting/graph_test.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+            <state relative-caret-position="195">
+              <caret line="58" column="70" selection-start-line="58" selection-start-column="49" selection-end-line="58" selection-end-column="71" />
             </state>
           </provider>
         </entry>
@@ -23,8 +23,8 @@
         <entry file="file://$PROJECT_DIR$/../TopologicalSorting/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-177">
-                <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+              <first_editor relative-caret-position="75">
+                <caret line="5" column="60" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="80" />
               </first_editor>
               <second_editor />
             </state>
@@ -34,7 +34,9 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../TopologicalSorting/graph.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1048" />
+            <state relative-caret-position="737">
+              <caret line="81" selection-start-line="81" selection-end-line="81" />
+            </state>
           </provider>
         </entry>
       </file>
@@ -43,6 +45,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/../TopologicalSorting/graph.rb" />
         <option value="$PROJECT_DIR$/../TopologicalSorting/README.md" />
       </list>
     </option>
@@ -90,7 +93,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Test::Unit/Shoulda/Minitest.Run test 'graph_test': t">
+    <configuration name="graph" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="t" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/../TopologicalSorting" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/../TopologicalSorting/graph.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Run test 'graph_test': t" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true">
       <module name="t" />
       <predefined_log_file enabled="true" id="RUBY_TESTUNIT" />
@@ -123,6 +144,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Test::Unit/Shoulda/Minitest.Run test 'graph_test': t" />
+        <item itemvalue="Ruby.graph" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +159,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561786902671</updated>
-      <workItem from="1561786903930" duration="1335000" />
+      <workItem from="1561786903930" duration="3091000" />
     </task>
     <servers />
   </component>
@@ -148,16 +170,19 @@
     <history-entry file="Run_test_'graph_test'__t - 2019.06.29 at 12h 42m 52s.xml">
       <configuration name="Run test 'graph_test': t" configurationId="TestUnitRunConfigurationType" />
     </history-entry>
+    <history-entry file="Run_test_'graph_test'__t - 2019.06.29 at 14h 47m 08s.xml">
+      <configuration name="Run test 'graph_test': t" configurationId="TestUnitRunConfigurationType" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1335000" />
+    <option name="totallyTimeSpent" value="3091000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="70" y="27" width="1296" height="741" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -166,7 +191,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4859967" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28830314" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -181,26 +206,29 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/t@Run_test__graph_test___t.rcov" NAME="Run test 'graph_test': t Coverage Results" MODIFIED="1561786971665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="t" />
+    <SUITE FILE_PATH="coverage/t@Run_test__graph_test___t.rcov" NAME="Run test 'graph_test': t Coverage Results" MODIFIED="1561794682811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TopologicalSorting" MODULE_NAME="t" />
+    <SUITE FILE_PATH="coverage/t@graph.rcov" NAME="graph Coverage Results" MODIFIED="1561794378486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TopologicalSorting" MODULE_NAME="t" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../TopologicalSorting/graph.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1048" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../TopologicalSorting/graph_test.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+        <state relative-caret-position="195">
+          <caret line="58" column="70" selection-start-line="58" selection-start-column="49" selection-end-line="58" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TopologicalSorting/graph.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="737">
+          <caret line="81" selection-start-line="81" selection-end-line="81" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../TopologicalSorting/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-177">
-            <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="60" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="80" />
           </first_editor>
           <second_editor />
         </state>

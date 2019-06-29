@@ -1,7 +1,9 @@
 # Using Kahn’s algorithm for Topological Sorting
 
+A string input is converted into a directed acyclic graph (DAG)
+
 Algorithm:
-Steps involved in finding the topological ordering of a directed acyclic graph (DAG):
+Steps involved in finding the topological ordering of the DAG:
 
 Step-1: Compute in-degree (number of incoming edges) for each of the vertex present in the DAG and initialize the count of visited nodes as 0.
 

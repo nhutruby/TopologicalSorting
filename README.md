@@ -22,3 +22,7 @@ Step 6: reverse the result
 Time Complexity: The outer for loop will be executed V number of times and the inner for loop will be executed E number of times, Thus overall time complexity is O(V+E).
 
 The overall time complexity of the algorithm is O(V+E)
+
+Reference:
+https://en.wikipedia.org/wiki/Topological_sorting#Kahn.27s_algorithm
+https://www.geeksforgeeks.org/topological-sorting-indegree-based-solution/

@@ -1,4 +1,4 @@
-#Using Kahn’s algorithm for Topological Sorting
+# Using Kahn’s algorithm for Topological Sorting
 
 Algorithm:
 Steps involved in finding the topological ordering of a directed acyclic graph (DAG):
@@ -25,4 +25,5 @@ The overall time complexity of the algorithm is O(V+E)
 
 Reference:
 https://en.wikipedia.org/wiki/Topological_sorting#Kahn.27s_algorithm
+
 https://www.geeksforgeeks.org/topological-sorting-indegree-based-solution/
